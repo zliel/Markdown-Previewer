@@ -73,7 +73,4 @@ class App extends React.Component {
 
   }}
 
-
-
-
 ReactDOM.render(React.createElement(App, null), document.getElementById('test'));
